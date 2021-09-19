@@ -1,7 +1,0 @@
-{
-	"BotChangelog": "- Entire Bot Code Rewrite\n- e621 command\n- userinfo now accepts userIDs as well\n- Blacklist system rewrite\n- Moderation v4 (warn, case reasons, etc)\n- Bot now uses redis instead of quick.db",
-	"BotPFP": "https://cdn.discordapp.com/avatars/677257480744730624/2a52922015e7cec72170141673c720f1.png?size=512&.png",
-	"BotPrefix": "Outcast_",
-	"BotVersion": "Outcast v4.0.0 Alpha",
-	"VType": "Alpha"
-}
