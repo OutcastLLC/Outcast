@@ -2,3 +2,37 @@
 ## Credits:
 - Ash Fogelson, Project Lead
 - magicalbunny31, 
+## Commands:
+### Bot
+
+#### help
+
+#### info
+
+#### invite
+
+
+
+### Image
+
+
+
+### Fun
+
+
+
+### Moderation
+
+
+
+### NSFW
+
+
+
+### Roleplay
+
+
+
+### Utility
+
+
